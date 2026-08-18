@@ -7,7 +7,6 @@ Hi, I'm Vedant. This repo holds my keyring designs. I made these while actively 
 
 ## Overview
 
-| | |
 |---|---|
 | **Program** | FuseRing (Hack Club YSWS) |
 | **Tool used** | Onshape |
@@ -17,19 +16,19 @@ Hi, I'm Vedant. This repo holds my keyring designs. I made these while actively 
 ## Designs
 
 ### Keyring 1 — Music player graphics
-- [Screenshot](Link)
-- [.step file](link)
-- [Live in Onshape](link)
+- [Screenshot](Screenshot-2026-08-16-012020.png)
+- [.step file](Keyring-1.step)
+- [Live in Onshape](https://cad.onshape.com/documents/eff1d231dd0bd4e9560bd510/w/440b65801021b8ed396fc40c/e/4777c0d1f30c2faea50b15c1)
 
 ### Keyring 2 — Atom logo
-- [Screenshot](Link)
-- [.step file](link)
-- [Live in Onshape](link)
+- [Screenshot](Screenshot-2026-08-16-012111.png)
+- [.step file](Keyring-2.step)
+- [Live in Onshape](https://cad.onshape.com/documents/9635439923075332b93f269e/w/b3880f166031d64fc072c4f6/e/499de2ffbeae02d717a380bf)
 
 ### Keyring 3 — The indecision ring
-- [Screenshot](Link)
-- [.step file](link)
-- [Live in Onshape](link)
+- [Screenshot](Screenshot-2026-08-16-012202.png)
+- [.step file](Keyring-3.step)
+- [Live in Onshape](https://cad.onshape.com/documents/74f4ddde62b7a9600477a948/w/50f29cd22445cabd4387e3e1/e/f6d1878c98aa35ee6a9c7cd3)
 
 ## Process
 
