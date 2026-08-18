@@ -7,6 +7,7 @@ Hi, I'm Vedant. This repo holds my keyring designs. I made these while actively 
 
 ## Overview
 
+| | |
 |---|---|
 | **Program** | FuseRing (Hack Club YSWS) |
 | **Tool used** | Onshape |
